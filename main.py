@@ -1,2 +1,4 @@
 print("Guntis")
-Print("Andrejs")
+print("Andrejs")
+print("Vadims")
+
